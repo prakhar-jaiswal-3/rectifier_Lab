@@ -1,0 +1,6 @@
+{
+  "name": "RectifierLab - Power Electronics Simulator & Waveform Analyzer",
+  "description": "Interactive power electronics laboratory for 1-phase and 3-phase diode and thyristor rectifiers with rigorous numerical modeling, harmonic analysis, and synchronized oscillograms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
